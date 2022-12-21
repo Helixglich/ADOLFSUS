@@ -18,9 +18,7 @@ Device_details = str(host_name) + ": "
 Device_details += str(external_ip)
 
 
-#create webhook
-#Webhook = DiscordWebhook(url='https://discordapp.com/api/webhooks/1054015735560683652/5hVwJ_-eH3zdbcb8rYiFrjny9kXIZSxBl72pHs0vDldNno6dLcCtI_J2yjOfhki44HgS',content=Device_details)
-#response = Webhook.execute()
+
 
 
 HOST = '127.0.0.1'
